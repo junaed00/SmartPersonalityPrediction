@@ -29,16 +29,16 @@ Participants were informed that their responses would be recorded and used for r
 The following items were presented on one page and each was rated on a five point scale using radio buttons. The order on page was was EXT1, AGR1, CSN1, EST1, OPN1, EXT2, etc.
 The scale was labeled 1=Disagree, 3=Neutral, 5=Agree
 
-* EXT1	I am the life of the party.
-* EXT2	I don't talk a lot.
-* EXT3	I feel comfortable around people.
-* EXT4	I keep in the background.
-* EXT5	I start conversations.
-* EXT6	I have little to say.
-* EXT7	I talk to a lot of different people at parties.
-* EXT8	I don't like to draw attention to myself.
-* EXT9	I don't mind being the center of attention.
-* EXT10	I am quiet around strangers.
+* EXT1  	I am the life of the party.
+* EXT2	  I don't talk a lot.
+* EXT3	  I feel comfortable around people.
+* EXT4	  I keep in the background.
+* EXT5	  I start conversations.
+* EXT6	  I have little to say.
+* EXT7	  I talk to a lot of different people at parties.
+* EXT8	  I don't like to draw attention to myself.
+* EXT9	  I don't mind being the center of attention.
+* EXT10	  I am quiet around strangers.
 
 * EST1	I get stressed out easily.
 * EST2	I am relaxed most of the time.
