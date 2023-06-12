@@ -38,38 +38,38 @@ The following items were presented on a scrolling page and each will be responde
 
 Queries;
 
-* 1.    I am the life of the party.
-* 2.    I don't talk a lot.
-* 3.    I feel comfortable around people.
-* 4.	  I keep in the background.
-* 5.	  I start conversations.
-* 6.	  I have little to say.
-* 7.	  I talk to a lot of different people at parties.
-* 8.	  I don't like to draw attention to myself.
-* 9.	  I don't mind being the center of attention.
-* 10.	  I am quiet around strangers.
+* I am the life of the party.
+* I don't talk a lot.
+* I feel comfortable around people.
+* I keep in the background.
+* I start conversations.
+* I have little to say.
+* I talk to a lot of different people at parties.
+* I don't like to draw attention to myself.
+* I don't mind being the center of attention.
+* I am quiet around strangers.
 
-* EST1	I get stressed out easily.
-* EST2	I am relaxed most of the time.
-* EST3	I worry about things.
-* EST4	I seldom feel blue.
-* EST5	I am easily disturbed.
-* EST6	I get upset easily.
-* EST7	I change my mood a lot.
-* EST8	I have frequent mood swings.
-* EST9	I get irritated easily.
-* EST10	I often feel blue.
+* I get stressed out easily.
+* I am relaxed most of the time.
+* I worry about things.
+* I seldom feel blue.
+* I am easily disturbed.
+* I get upset easily.
+* I change my mood a lot.
+* I have frequent mood swings.
+* I get irritated easily.
+* I often feel blue.
 
-* AGR1	I feel little concern for others.
-* AGR2	I am interested in people.
-* AGR3	I insult people.
-* AGR4	I sympathize with others' feelings.
-* AGR5	I am not interested in other people's problems.
-* AGR6	I have a soft heart.
-* AGR7	I am not really interested in others.
-* AGR8	I take time out for others.
-* AGR9	I feel others' emotions.
-* AGR10	I make people feel at ease.
+* I feel little concern for others.
+* I am interested in people.
+* I insult people.
+* I sympathize with others' feelings.
+* I am not interested in other people's problems.
+* I have a soft heart.
+* I am not really interested in others.
+* I take time out for others.
+* I feel others' emotions.
+* I make people feel at ease.
 
 * CSN1	I am always prepared.
 * CSN2	I leave my belongings around.
