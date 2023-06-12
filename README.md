@@ -30,11 +30,11 @@ We take responses to 40 questions and classify the users based on Big Five perso
 In this project we analyse the data set and use unsupervised learning algorithm K-Means Clustering for clustering the participants.
 
 The following items were presented on a scrolling page and each will be responded on a five scales labeled as
-1 = Strongly Disagree
-2 = Disagree
-3 = Neutral
-4 = Agree
-5 = Strongly Agree
+* Strongly Disagree
+* Disagree
+* Neutral
+* Agree
+* Strongly Agree
 
 Queries;
 
