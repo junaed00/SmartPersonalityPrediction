@@ -38,8 +38,8 @@ The following items were presented on a scrolling page and each will be responde
 
 Queries;
 
-* 1.  I am the life of the party.
-* 2.  I don't talk a lot.
+* 1.    I am the life of the party.
+* 2.    I don't talk a lot.
 * 3.    I feel comfortable around people.
 * 4.	  I keep in the background.
 * 5.	  I start conversations.
