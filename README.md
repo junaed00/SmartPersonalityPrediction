@@ -6,15 +6,6 @@ Big Five personality traits, also known as the five-factor model (FFM) and the O
 
 This theory uses descriptors of common language and suggests five broad dimensions commonly used to describe the human personality and psyche. The theory identifies five factors:
 
-* Openness to experience (inventive/curious vs. consistent/cautious)
-* Conscientiousness (efficient/organized vs. easy-going/careless)
-* Extroversion (outgoing/energetic vs. solitary/reserved)
-* Agreeableness (friendly/compassionate vs. challenging/detached)
-* Neuroticism (sensitive/nervous vs. secure/confident)
-
-1280px-Wiki-grafik_peats-de_big_five_ENG.png![image.png](attachment:image.png)
-
-In this project we analyse the data set and use unsupervised learning algorithm K-Means Clustering for clustering the participants.
 
 Resources:
 https://en.wikipedia.org/wiki/Big_Five_personality_traits
@@ -26,19 +17,37 @@ This data was collected (2016-2018) through an interactive on-line personality t
 The personality test was constructed with the "Big-Five Factor Markers" from the IPIP. https://ipip.ori.org/newBigFive5broadKey.htm
 Participants were informed that their responses would be recorded and used for research at the beginning of the test, and asked to confirm their consent at the end of the test.
 
-The following items were presented on one page and each was rated on a five point scale using radio buttons. The order on page was was EXT1, AGR1, CSN1, EST1, OPN1, EXT2, etc.
-The scale was labeled 1=Disagree, 3=Neutral, 5=Agree
+## Big Five personality model
 
-* EXT1  	I am the life of the party.
-* EXT2	  I don't talk a lot.
-* EXT3	  I feel comfortable around people.
-* EXT4	  I keep in the background.
-* EXT5	  I start conversations.
-* EXT6	  I have little to say.
-* EXT7	  I talk to a lot of different people at parties.
-* EXT8	  I don't like to draw attention to myself.
-* EXT9	  I don't mind being the center of attention.
-* EXT10	  I am quiet around strangers.
+* Openness to experience (inventive/curious vs. consistent/cautious)
+* Conscientiousness (efficient/organized vs. easy-going/careless)
+* Extroversion (outgoing/energetic vs. solitary/reserved)
+* Agreeableness (friendly/compassionate vs. challenging/detached)
+* Neuroticism (sensitive/nervous vs. secure/confident)
+
+1280px-Wiki-grafik_peats-de_big_five_ENG.png![image.png](attachment:image.png)
+
+In this project we analyse the data set and use unsupervised learning algorithm K-Means Clustering for clustering the participants.
+
+The following items were presented on a scrolling page and each will be responded on a five scales labeled as
+1 = Strongly Disagree
+2 = Disagree
+3 = Neutral
+4 = Agree
+5 = Strongly Agree
+
+Queries;
+
+* 1.  	I am the life of the party.
+* 2.    I don't talk a lot.
+* 3.    I feel comfortable around people.
+* 4.	  I keep in the background.
+* 5.	  I start conversations.
+* 6.	  I have little to say.
+* 7.	  I talk to a lot of different people at parties.
+* 8.	  I don't like to draw attention to myself.
+* 9.	  I don't mind being the center of attention.
+* 10.	  I am quiet around strangers.
 
 * EST1	I get stressed out easily.
 * EST2	I am relaxed most of the time.
