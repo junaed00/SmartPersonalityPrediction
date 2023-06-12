@@ -17,7 +17,7 @@ This data was collected (2016-2018) through an interactive on-line personality t
 The personality test was constructed with the "Big-Five Factor Markers" from the IPIP. https://ipip.ori.org/newBigFive5broadKey.htm
 Participants were informed that their responses would be recorded and used for research at the beginning of the test, and asked to confirm their consent at the end of the test.
 
-## Big Five personality model
+We take responses to 40 questions and classify the users based on Big Five personality model.
 
 * Openness to experience (inventive/curious vs. consistent/cautious)
 * Conscientiousness (efficient/organized vs. easy-going/careless)
@@ -38,8 +38,8 @@ The following items were presented on a scrolling page and each will be responde
 
 Queries;
 
-* 1.  	I am the life of the party.
-* 2.    I don't talk a lot.
+* 1.  I am the life of the party.
+* 2.  I don't talk a lot.
 * 3.    I feel comfortable around people.
 * 4.	  I keep in the background.
 * 5.	  I start conversations.
